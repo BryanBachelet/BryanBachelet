@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My Portfolio Site : https://bryanbachelet.github.io/
+My CV : ![[CV Bryan Bachelet.pdf]]
 
 I'm a Game Designer and a Game Programmer. I'm currently studying Game Programming at ISART DIGITAL Paris.
 
